@@ -14,13 +14,11 @@ graph TD
 
 ### Frontend
 - **React.js**: Component-based architecture ideal for e-commerce UIs
-- **Vite**: Fast build tool for modern React apps
 - **React Router**: Client-side routing
 - **React Query**: Data fetching and state management
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development
 
 ### Backend
-- **Node.js/Express.js**: Lightweight and performant API server
 - **Supabase Client**: Official SDK for Supabase integration
 - **JWT Authentication**: For secure user sessions
 
